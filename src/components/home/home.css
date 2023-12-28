@@ -1,0 +1,21 @@
+.html {
+  scroll-behavior: smooth;
+}
+.home {
+  width: 70%;
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+}
+
+@media only screen and (max-width: 1024px) {
+  .home {
+    width: 90%;
+  }
+}
+
+@media only screen and (max-width: 512px) {
+  .home {
+    width: 100%;
+  }
+}
