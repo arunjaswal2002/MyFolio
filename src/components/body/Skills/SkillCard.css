@@ -1,0 +1,13 @@
+.skill-card{
+    width:max-content;
+    padding: 8px 16px;
+    height:20px;
+    justify-content: center;
+    margin: 6px;
+    border-radius: 10px;
+    background-color: aquamarine;
+}
+.skill-name{
+    font-size: 18px;
+}
+
